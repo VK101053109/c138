@@ -1,0 +1,15 @@
+body {}
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.b1{
+float: right;
+}
+.stat{
+    background-color: white;
+}
